@@ -8,4 +8,4 @@ Exchange for:
 - Stakz Token (sell)
 - BTC-Pearl, BTC-Black, BTC-Platinum
 
-Connected to Grokchain Oracle for real prices and data.
+Connected to Grokchain Oracle for real prices & data.
